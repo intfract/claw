@@ -31,4 +31,4 @@ function generate(spread, depth, options, blacklist, callback) {
 
 // generate(chars[0].length, 2, chars[0], common, (x, n) => {})
 
-enter(process.env.usr, process.env.pwd)
+// enter(process.env.usr, process.env.pwd)
